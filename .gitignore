@@ -9,7 +9,7 @@ yarn.lock
 package-lock.json
 
 # production
-/theme
+# /theme
 
 # misc
 .DS_Store
